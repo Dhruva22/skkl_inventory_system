@@ -1,0 +1,35 @@
+{
+  "name": "skkl_inventory_system",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-bootstrap": "^0.30.8",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhruva22/skkl_inventory_system.git"
+  },
+  "keywords": [
+    "reactJS",
+    "Node"
+  ],
+  "author": "Dhruva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhruva22/skkl_inventory_system/issues"
+  },
+  "homepage": "https://github.com/Dhruva22/skkl_inventory_system#readme"
+}
